@@ -2,6 +2,7 @@
 
 ## Objective  
 Predicting sales of Big mart using different Machine learning Algorithms.  
+Web App Link: https://sujith-salesprediction.herokuapp.com/
 
 
 ![](https://www.thebalancesmb.com/thmb/k2ODaf0FmliyAMQF74_faNmPnsQ=/2119x1192/smart/filters:no_upscale()/supermarket-714318f7078a43769cf37a1c24930629.jpg)  
