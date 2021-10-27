@@ -54,6 +54,7 @@ Item_Outlet_Sales: Sales of the product in the particulat store. This is the out
 ![Screenshot (89)](https://user-images.githubusercontent.com/79982401/139019723-e87d5768-bd4f-4945-9e55-d11885115dd6.png)  
 
 #### Project Video  
+https://user-images.githubusercontent.com/79982401/139020325-dd076183-5025-4541-825f-7f8a4bf7a47d.mp4
 
 
 
