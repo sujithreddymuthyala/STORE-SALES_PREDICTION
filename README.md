@@ -8,7 +8,7 @@ Web App Link: https://sujith-salesprediction.herokuapp.com/
 ![](https://www.thebalancesmb.com/thmb/k2ODaf0FmliyAMQF74_faNmPnsQ=/2119x1192/smart/filters:no_upscale()/supermarket-714318f7078a43769cf37a1c24930629.jpg)  
 
 ## Problem Statement  
-To run buisnesses successfully,Shopping malls and Big Marts keep track of individual item sales data in order to forecast future client demand. Customer information and product details are used to predict future sales.
+To run buisness successfully,Shopping malls and Big Marts keep track of individual item sales data in order to forecast future client demand. Customer information and product details are used to predict future sales.
 
 
 ## Dataset Description
