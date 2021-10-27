@@ -50,8 +50,12 @@ Item_Outlet_Sales: Sales of the product in the particulat store. This is the out
 8) Deployment.  
 
 ## Snippets  
+#### Homepage  
 ![Screenshot (89)](https://user-images.githubusercontent.com/79982401/139019723-e87d5768-bd4f-4945-9e55-d11885115dd6.png)  
-![Screenshot (90)](https://user-images.githubusercontent.com/79982401/139019794-4f3ffd1d-cfe0-4fb2-a072-df3d241512f3.png)
+
+#### Project Video  
+
+
 
 ### Resources  
 Dataset: https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data  
